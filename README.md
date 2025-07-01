@@ -131,9 +131,11 @@ npm run dev
 
 ---
 
-## 🤝 Contributing
+## 👥 Contributors
 
-Contributions are welcome! Feel free to fork this repo, raise issues, or submit PRs.
+- [@mrsumanth19](https://github.com/mrsumanth19) – Creator  
+- [@mahe0420](https://github.com/mahe0420) – Contributor  
+
 
 ---
 
