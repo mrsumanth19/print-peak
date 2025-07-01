@@ -112,7 +112,6 @@ CLIENT_URL=http://localhost:5173
 NODE_ENV=development
 JWT_SECRET=yourJWTSecretKey
 Replace the placeholder values with your actual credentials.
----
 
 
 ## 🌐 Deployment
