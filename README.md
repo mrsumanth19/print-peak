@@ -172,6 +172,4 @@ You can also create a shared `server/.env.example` file for reference and add `.
 
 MIT © [Sumanth M](https://github.com/mrsumanth19)
 
-```
 
----
