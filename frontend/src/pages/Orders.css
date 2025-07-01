@@ -1,0 +1,24 @@
+.mockup-container {
+  position: relative;
+  display: inline-block;
+  width: 220px;
+}
+
+.mockup-product {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.mockup-design {
+  position: absolute;
+  top: 36%;
+  left: 50%;
+  transform: translate(-50%, -36%);
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  opacity: 0.95;
+  mix-blend-mode: multiply;
+}

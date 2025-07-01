@@ -1,0 +1,21 @@
+.mockup-container {
+  position: relative;
+  width: 100%;
+  max-width: 200px;
+  margin: auto;
+}
+
+.mockup-product {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+}
+
+.mockup-design {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  width: 50%;
+  opacity: 0.8;
+  pointer-events: none;
+}
