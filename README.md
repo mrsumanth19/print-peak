@@ -95,7 +95,25 @@ npm install
 npm run dev
 ```
 
+
+## 🔐 Environment Variables
+
+> ⚠️ For security reasons, the actual `.env` file is **not included** in the repository.  
+To run the project locally, create a `.env` file in the `backend/` directory and use the format below:
+
+```env
+PORT=5000
+MONGO_URI=mongodb+srv://yourMongoUser:yourMongoPassword@yourCluster.mongodb.net/printpeak?retryWrites=true&w=majority
+CLOUDINARY_CLOUD_NAME=yourCloudName
+CLOUDINARY_API_KEY=yourCloudinaryAPIKey
+CLOUDINARY_API_SECRET=yourCloudinaryAPISecret
+STRIPE_SECRET_KEY=yourStripeSecretKey
+CLIENT_URL=http://localhost:5173
+NODE_ENV=development
+JWT_SECRET=yourJWTSecretKey
+Replace the placeholder values with your actual credentials.
 ---
+
 
 ## 🌐 Deployment
 
